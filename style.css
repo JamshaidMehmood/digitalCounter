@@ -1,0 +1,29 @@
+.container
+{
+    background-color:azure;
+    margin: 50px;
+}
+#bt1
+{
+    background-color:brown ;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+    
+}
+#bt2
+{
+    background-color:black ;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+    
+}
+#bt3
+{
+    background-color:green ;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+    
+} 
